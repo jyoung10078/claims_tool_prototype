@@ -90,7 +90,7 @@
     "eslint-plugin-mocha": "10.5.0",
     "eslint-plugin-react": "7.37.4",
     "eslint-plugin-react-compiler": "latest",
-    "eslint-plugin-react-hooks": "5.1.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
     "eslint-plugin-testing-library": "^6.5.0",
     "eslint-plugin-typescript-enum": "2.1.0",
     "execa": "9.5.2",
